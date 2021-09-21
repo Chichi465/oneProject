@@ -1,4 +1,34 @@
 <resources>
+    <string name="app_name">Project One</string>
+    <string name="sleepSurvey">Sleep Survery</string>
+    <string name="sleepHoursQuestion">How many hours have you slept today?</string>
+    <string name="hoursSleptNotSlept">I have not slept today</string>
+    <string name="hoursSleptOneToThree">1–3</string>
+    <string name="hoursSleptFourToSeven">4–7</string>
+    <string name="hoursSleptEightToEleven">8–11</string>
+    <string name="hoursSleptTwelvePlus">12+</string>
+    <string name="questionBedTime">What time did you go to bed?</string>
+    <string name="questionSleepComfort">Was your sleep comfortable?</string>
+    <string name="sleepComfortYes">Yes</string>
+    <string name="sleepComfortNo">No</string>
+    <string name="questionEnergyWake">Do you feel energized after waking up?</string>
+    <string name="EnergyWakeYes">Yes</string>
+    <string name="EnergyWakeMeh">Meh</string>
+    <string name="EnergyWakeNo">No</string>
+    <string name="questionMattress">Do you like the mattress you sleep on?</string>
+    <string name="MattressYes">Yes</string>
+    <string name="MattressNo">No</string>
+    <string name="questionShareRoom">Do you share a room with somebody?</string>
+    <string name="shareRoomYes">Yes</string>
+    <string name="shareRoomNo">No</string>
+    <string name="questionDream">Do you have dreams while sleeping?</string>
+    <string name="dreamYes">Yes</string>
+    <string name="dreamNo">No</string>
+    <string name="questionWakeyFeely">how did you feel when you woke up today?</string>
+    <string name="wakeyFeelySad">sad</string>
+    <string name="wakeyFeelyHappy">happy</string>
+    <string name="wakeyFeelyMad">mad</string>
+    <string name="wakeyFeelyTired">tired</string>
 
     <string name="eatNo">No</string>
     <string name="eatYes">Yes</string>

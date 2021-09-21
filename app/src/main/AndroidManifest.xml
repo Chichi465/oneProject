@@ -13,6 +13,9 @@
             android:name=".fatima"
             android:exported="true" />
         <activity
+            android:name=".william"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true" >
             <intent-filter>
