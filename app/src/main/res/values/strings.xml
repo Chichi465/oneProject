@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">Project One</string>
+
+    <string name="eatNo">No</string>
+    <string name="eatYes">Yes</string>
+    <string name="eatNope">I haven\'t eaten......</string>
+    <string name="eatNo">No</string>
+    <string name="eatYes">Yes</string>
+    <string name="mealTwo">2 meals</string>
+    <string name="mealThree">3 meals</string>
+    <string name="mealOne">1 meal</string>
+    <string name="mealBlue">Blue meal</string>
+    <string name="mealMore">More meals</string>
+    <string name="drinkNo">No</string>
+    <string name="drinkYes">Yes</string>
+    <string name="meatBeef">Beef</string>
+    <string name="meatSeafood">Seafood</string>
+    <string name="meatChicken">Chicken</string>
+    <string name="meatPork">Pork</string>
+    <string name="eatTodayQuestion">Did you eat today?</string>
+    <string name="foodGoodQuestion">If yes was your food good?</string>
+    <string name="mealsTodayQuestion">How many meals today?</string>
+    <string name="waterTodayQuestion">Did you drink water today?</string>
+    <string name="meatTypeQuestion">What type of meat did you eat?</string>
 </resources>
