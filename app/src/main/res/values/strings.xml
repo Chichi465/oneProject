@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Project One</string>
+    <string name="m_e_n_t_a_l_h_e_a_l_t_h">m e n t a l h e a l t h</string>
+    <string name="oneTwoSleepQuestion">1-2 hours per night</string>
+    <string name="mentalHealth">mental health</string>
+    <string name="sleepQuestion">how much have you slept this week (approx.)</string>
+    <string name="threeFourSleepQuestion">3-4 hours per night</string>
+    <string name="fiveSixSleepQuestion">5-6 hours per night</string>
+    <string name="sevenPlusSleepQuestion">7+ hours per night</string>
+    <string name="okayQuestion">would you consider yourself okay?</string>
+    <string name="yesOkay">yes</string>
+    <string name="noOkay">no</string>
+    <string name="illnessQuestion">what mental health illnesses do you have?</string>
+    <string name="anxietyIllness">anxiety</string>
+    <string name="depressionIllness">depression</string>
+    <string name="ocdIllness">ocd</string>
+    <string name="bipolarIllness">bipolar</string>
+    <string name="adhdIllness">adhd</string>
+    <string name="ptsdIllness">ptsd</string>
+    <string name="notSureYetIllness">not entirely sure but ive got something going on</string>
+    <string name="otherIllness">other</string>
+    <string name="supportSystem">do you have a support system?</string>
+    <string name="yesSupport">yes</string>
+    <string name="noSupport">no</string>
+    <string name="tryingSupport">im working on it</string>
+    <string name="complicatedSupport">its complicated...</string>
+    <string name="petSupport">i have pets</string>
+    <string name="tylerSupport">i have a tyler</string>
+    <string name="elijahSupport">i have an elijah</string>
+    <string name="saveButton">save</string>
 </resources>
