@@ -1,4 +1,5 @@
 <resources>
+    <!--Charlotte-->
     <string name="app_name">Project One</string>
     <string name="m_e_n_t_a_l_h_e_a_l_t_h">m e n t a l h e a l t h</string>
     <string name="oneTwoSleepQuestion">1-2 hours per night</string>
@@ -28,6 +29,7 @@
     <string name="tylerSupport">i have a tyler</string>
     <string name="elijahSupport">i have an elijah</string>
     <string name="saveButton">save</string>
+<!--william-->
     <string name="sleepSurvey">Sleep Survery</string>
     <string name="sleepHoursQuestion">How many hours have you slept today?</string>
     <string name="hoursSleptNotSlept">I have not slept today</string>
@@ -57,7 +59,7 @@
     <string name="wakeyFeelyHappy">happy</string>
     <string name="wakeyFeelyMad">mad</string>
     <string name="wakeyFeelyTired">tired</string>
-
+<!--Fatima-->
     <string name="eatNo">No</string>
     <string name="eatYes">Yes</string>
     <string name="eatNope">I haven\'t eaten......</string>
