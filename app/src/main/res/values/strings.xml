@@ -66,9 +66,6 @@
 <!--Fatima-->
     <string name="eatNo">No</string>
     <string name="eatYes">Yes</string>
-    <string name="eatNope">I haven\'t eaten......</string>
-    <string name="eatNo">No</string>
-    <string name="eatYes">Yes</string>
     <string name="mealTwo">2 meals</string>
     <string name="mealThree">3 meals</string>
     <string name="mealOne">1 meal</string>
@@ -85,4 +82,7 @@
     <string name="mealsTodayQuestion">How many meals today?</string>
     <string name="waterTodayQuestion">Did you drink water today?</string>
     <string name="meatTypeQuestion">What type of meat did you eat?</string>
+    <string name="foodNo">No</string>
+    <string name="foodMaybe">Not yet...</string>
+    <string name="foodYes">Yes</string>
 </resources>

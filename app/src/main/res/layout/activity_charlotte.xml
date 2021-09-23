@@ -18,7 +18,7 @@
             android:orientation="vertical">
 
             <Spinner
-                android:id="@+id/name"
+                android:id="@+id/personName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1" />
