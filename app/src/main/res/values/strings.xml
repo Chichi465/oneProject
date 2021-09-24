@@ -89,4 +89,5 @@
     <string name="lifeAnswer">i.e. very not gucci</string>
     <string name="favoriteMealAnswer">favorite meal</string>
     <string name="favoriteMealQuestion">What was your favorite meal today?</string>
+    <string name="answerBedTime">answerBedTime</string>
 </resources>
