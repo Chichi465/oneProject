@@ -170,6 +170,22 @@
                 android:layout_height="wrap_content"
                 android:text="@string/meatPork" />
 
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/favoriteMealQuestion" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:text="@string/favoriteMealAnswer" />
+
             <Button
                 android:id="@+id/button3"
                 android:layout_width="match_parent"

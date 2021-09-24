@@ -87,4 +87,6 @@
     <string name="foodYes">Yes</string>
     <string name="lifeQuestion">hows life going so far?</string>
     <string name="lifeAnswer">i.e. very not gucci</string>
+    <string name="favoriteMealAnswer">favorite meal</string>
+    <string name="favoriteMealQuestion">What was your favorite meal today?</string>
 </resources>
