@@ -1,4 +1,4 @@
-package com.example.projectone.activities;
+package com.example.projectone.Data;
 
 public class FatimaData {
 
