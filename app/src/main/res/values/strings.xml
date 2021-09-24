@@ -85,4 +85,6 @@
     <string name="foodNo">No</string>
     <string name="foodMaybe">Not yet...</string>
     <string name="foodYes">Yes</string>
+    <string name="lifeQuestion">hows life going so far?</string>
+    <string name="lifeAnswer">i.e. very not gucci</string>
 </resources>
