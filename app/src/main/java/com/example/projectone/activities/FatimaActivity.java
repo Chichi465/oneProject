@@ -32,4 +32,6 @@ public class FatimaActivity {
     private RadioButton drinkNo;
     private RadioButton drinkYes;
     private Spinner personName;
+
+    private ArrayList <String>
 }
