@@ -15,7 +15,7 @@ public class CharlotteData {
     public static final String KEY_AnxietyIllness = "AnxietyIllness";
     public static final String KEY_DepressionIllness = "DepressionIllness";
     public static final String KEY_OcdIllness = "Ocd Illness";
-    public static final String KEY_Bipolar = "BipolarIllness";
+    public static final String KEY_BipolarIllness = "BipolarIllness";
     public static final String KEY_AdhdIllness = "AdhdIllness";
     public static final String KEY_PtsdIllness = "PtsdIllness";
     public static final String KEY_NotSureYetIllness = "NotSureYetIllness";
@@ -53,31 +53,31 @@ public class CharlotteData {
     private int tylerSupport;
     private int elijahSupport;
 
-    public CharlotteActivity(int name){
+    public CharlotteData(int name){
     personName = name;
 
     lifeAnswer = "";
-    oneTwoSleepQuestion = "0";
-    threeFourSleepQuestion = "0";
-    fiveSixSleepQuestion = "0";
-    sevenPlusSleepQuestion = "0";
-    yesOkay = "0";
-    noOkay = "0";
-    anxietyIllness = "0";
-    depressionIllness = "0";
-    ocdIllness = "0";
-    bipolarIllness = "0";
-    adhdIllness = "0";
-    ptsdIllness = "0";
-    notSureYetIllness = "0";
-    otherIllness = "0";
-    yesSupport = "0";
-    noSupport = "0";
-    tryingSupport = "0";
-    complicatedSupport = "0";
-    petSupport = "0";
-    tylerSupport = "0";
-    elijahSupport = "0";
+    oneTwoSleepQuestion = 0;
+    threeFourSleepQuestion = 0;
+    fiveSixSleepQuestion = 0;
+    sevenPlusSleepQuestion = 0;
+    yesOkay = 0;
+    noOkay = 0;
+    anxietyIllness = 0;
+    depressionIllness = 0;
+    ocdIllness = 0;
+    bipolarIllness = 0;
+    adhdIllness = 0;
+    ptsdIllness = 0;
+    notSureYetIllness = 0;
+    otherIllness = 0;
+    yesSupport = 0;
+    noSupport = 0;
+    tryingSupport = 0;
+    complicatedSupport = 0;
+    petSupport = 0;
+    tylerSupport = 0;
+    elijahSupport = 0;
     }
 
 public int getPersonName() {return personName;}
