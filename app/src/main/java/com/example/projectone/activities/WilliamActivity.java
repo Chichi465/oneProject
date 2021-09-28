@@ -35,4 +35,5 @@ public class WilliamActivity {
     private CheckBox wakeyFeelyHappy;
     private CheckBox wakeyFeelyMad;
     private CheckBox wakeyFeelyTired;
+    private ArrayList<String> data = new ArrayList<>();
 }

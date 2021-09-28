@@ -5,9 +5,14 @@ public class People {
     public static final String KEY_PersonName = "People";
     private String personName;
     public People(){
+
         personName = "Person Name";
     }
-    public String getPersonName() { return personName;}
-    public void setPersonName(String s) {personName = s;}
+    public String getPersonName() {
+        return personName;
+    }
+    public void setPersonName(String s) {
+        personName = s;
+    }
     
 }
