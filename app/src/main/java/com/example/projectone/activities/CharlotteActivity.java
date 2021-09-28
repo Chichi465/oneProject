@@ -40,4 +40,6 @@ public class CharlotteActivity {
     private RadioButton tylerSupport;
     private RadioButton elijahSupport;
 
+    private ArrayList<String>
+
 }
