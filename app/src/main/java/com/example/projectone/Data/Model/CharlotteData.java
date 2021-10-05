@@ -1,4 +1,4 @@
-package com.example.projectone.Data;
+package com.example.projectone.Data.Model;
 
 public class CharlotteData {
 
