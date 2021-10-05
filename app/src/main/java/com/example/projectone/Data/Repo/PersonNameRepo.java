@@ -53,7 +53,7 @@ public class PersonNameRepo {
             personName = cursor.getString(cursor.getColumnIndex(PersonName.KEY_PersonName));
         }
         cursor.close();
-        DataaseManager.getInstance().closeDatabase();
+        DataseManager.getInstance().closeDatabase();
         Log.d(tag: "FileName", msg:"end get name");
         return profileName;
     }
