@@ -88,6 +88,9 @@ public class WilliamData {
     public int getHoursSleptOneToThree() {return hoursSleptOneToThree;}
     public void setHoursSleptOneToThree(int b) { hoursSleptOneToThree = b;}
 
+    public int getHoursSleptFourToSeven(){return hoursSleptFourToSeven;}
+    public void setHoursSleptFourToSeven(int b){ hoursSleptFourToSeven = b; }
+
     public int getHoursSleptEightToEleven(){return hoursSleptEightToEleven;}
     public void setHoursSleptEightToEleven(int b){ hoursSleptEightToEleven = b; }
 
@@ -123,6 +126,9 @@ public class WilliamData {
 
     public int getDreamYes(){return dreamYes;}
     public void setDreamYes(int b){ dreamYes = b; }
+
+    public int getDreamNo(){return dreamNo;}
+    public void getDreamNo(int b){ dreamNo = b; }
 
     public int getWakeyFeelySad(){return wakeyFeelySad;}
     public void setWakeyFeelySad(int b){ wakeyFeelySad = b; }
